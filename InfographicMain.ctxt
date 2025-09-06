@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InfographicMain
+comment1.params=file
+comment1.target=int\ countLines(java.io.File)
+comment2.params=canvas
+comment2.target=void\ createXYAxis(csteutils.myro.MyroCanvas)
+comment3.params=canvas\ xCoor\ yCoor\ collegeID\ i
+comment3.target=void\ addCollegeLabel(csteutils.myro.MyroCanvas,\ int,\ int,\ java.util.ArrayList,\ int)
+comment4.params=sc\ count
+comment4.target=java.util.ArrayList\ makeDataSets(java.util.Scanner,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
